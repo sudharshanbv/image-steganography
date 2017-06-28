@@ -1,3 +1,5 @@
+
+/*header file inclusion*/
 #include <stdio.h>
 #include "encode.h"
 #include "types.h"
